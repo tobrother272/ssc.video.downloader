@@ -1,0 +1,17 @@
+{
+  "name": "ssc.video.downloader",
+  "displayName": "ssc.video.downloader",
+  "expo": {
+    "name": "ssc.video.downloader",
+    "slug": "ssc.video.downloader",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
